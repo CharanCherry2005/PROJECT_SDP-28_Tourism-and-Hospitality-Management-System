@@ -1,0 +1,10 @@
+.qr-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.qr-code {
+    max-width: 200px;
+    margin: 20px auto;
+}
